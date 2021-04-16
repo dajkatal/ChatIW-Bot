@@ -3,10 +3,8 @@ A script that lets you advertise anything you want automatically on [ChatIW](htt
 
 ## Installation
 
-Requires [Django](https://www.djangoproject.com/) to work.
-
 ```sh
-$ git clone {link}
+$ git clone https://github.com/dajkatal/ChatIW-Bot.git
 $ cd ChatIW-Bot
 $ pip install -r requirements.txt
 ```
